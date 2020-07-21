@@ -59,7 +59,7 @@
     "@angular/platform-browser-dynamic": "^2.0.0-rc.1",
     "async": "1.5.2",
     "bootstrap": "3.3.6",
-    "codecov": "1.0.1",
+    "codecov": "3.7.1",
     "compression-webpack-plugin": "0.3.1",
     "conventional-changelog-cli": "1.2.0",
     "conventional-github-releaser": "1.1.2",
